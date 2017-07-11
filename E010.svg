@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="79.349998"
+   height="79.349998"
+   id="svg18888"
+   version="1.1"
+   inkscape:version="0.48+devel r11964"
+   sodipodi:docname="E010.svg">
+    <title
+     id="title16">EN ISO 7010:2012</title>
+     <defs
+     id="defs18890" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="39.675"
+     inkscape:cy="39.674997"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="474"
+     inkscape:window-height="415"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showborder="false" />
+  <metadata
+     id="metadata18893">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>EN ISO 7010:2012</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>www.veiligheidspictogrammen.be</dc:source>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-335.325,-492.68718)">
+    <g
+       transform="translate(150.525,-313.79982)"
+       id="g18869">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 184.8,885.837 79.35,0 0,-79.35 -79.35,0 L 184.8,885.837 Z"
+         style="fill:#1ea366;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path5565" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 218.4,876.687 c -16.65,-11.1 -24.45,-22.05 -24.45,-30.75 0,-7.8 5.85,-14.1 13.05,-14.1 4.8,0 9.15,2.85 11.4,7.05 2.25,-4.2 6.45,-7.05 11.25,-7.05 7.35,0 13.2,6.3 13.2,14.1 C 242.85,854.637 234.9,865.587 218.4,876.687 z m 6,-38.7 -6.3,13.65 8.25,0 -14.85,17.25 5.7,-13.5 -8.1,0 15.3,-17.4"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path5567" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 256.95,820.287 0,6.6 -6.6,0 0,6.6 -6.6,0 0,-6.6 -6.6,0 0,-6.6 6.6,0 0,-6.6 6.6,0 0,6.6 6.6,0"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path5569" />
+    </g>
+  </g>
+</svg>
